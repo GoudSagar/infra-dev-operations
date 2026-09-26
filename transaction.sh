@@ -3,3 +3,6 @@
     * Tag creation and deletion
     * Add files and commit changes
     * List commits and check detailed info about commits.
+    * Remotes
+    * forking
+
